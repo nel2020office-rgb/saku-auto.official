@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nel2020office-rgb.github.io/saku-auto.official/sitemap.xml
